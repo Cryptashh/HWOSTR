@@ -1,4 +1,4 @@
-# $HYPIO Token — White Paper
+# $HWOSTR Token — White Paper
 
 *Version 1.0 — More sections will be added as the project evolves.*
 
@@ -6,7 +6,7 @@
 
 ## 1. Vision
 
-$HYPIO is the economic asset of the HYPIO NFT collection, deployed on Hyperliquid. It is not designed to reach a speculative market cap and dump. It is designed for longevity — driving consistent volume, rewarding long-term holders, and building one of the most active communities the space has seen.
+$HWOSTR is the economic asset of the HYPIO NFT collection, deployed on Hyperliquid. It is not designed to reach a speculative market cap and dump. It is designed for longevity — driving consistent volume, rewarding long-term holders, and building one of the most active communities the space has seen.
 
 The success of the token depends on collective participation. The more holders play the game (holding, staking, and engaging in events), the stronger the ecosystem becomes for everyone.
 
@@ -18,7 +18,7 @@ The success of the token depends on collective participation. The more holders p
 HYPIO NFTs benefit directly from the token economy. The 5% transaction tax is entirely dedicated to buybacks and strategic bids on HYPIO NFTs, creating persistent buy pressure at the floor.
 
 ### 2.2 A Token With Real Utility
-$HYPIO is not a meme. It powers access to staking vaults, community events, partner spotlights, games, and future mechanisms within the HYPIO ecosystem. The more tokens you hold, the greater your position within every event and every layer of the economy.
+$HWOSTR is not a meme. It powers access to staking vaults, community events, partner spotlights, games, and future mechanisms within the HYPIO ecosystem. The more tokens you hold, the greater your position within every event and every layer of the economy.
 
 ### 2.3 A Mechanism Yet to Be Revealed
 A third mechanism — not yet disclosed — will allow holders to accumulate additional $HYPE. Details will be revealed in time, at the right moment.
@@ -61,7 +61,7 @@ Selling immediately forfeits staking rights and accumulated rewards. Holding rew
 
 ## 5. Economy & Sustainability
 
-The $HYPIO token economy is built on a flywheel designed for long-term activity, not speculation.
+The $HWOSTR token economy is built on a flywheel designed for long-term activity, not speculation.
 
 ### 5.1 The 5% Tax Flywheel
 Every transaction and transfer carries a 5% tax.
@@ -72,7 +72,7 @@ Every transaction and transfer carries a 5% tax.
 This is executed manually, not by bots. The expert actively monitors and responds to market conditions — fighting manipulators, jeeters, and snipers in real time. All activity is visible live on the HWOSTR dashboard.
 
 ### 5.2 Volume-Driven Sweeps
-Rather than chasing a market cap number, $HYPIO is built to drive real, consistent volume. Periodic sweeps are part of the long-term strategy, rewarding patient holders over time.
+Rather than chasing a market cap number, $HWOSTR is built to drive real, consistent volume. Periodic sweeps are part of the long-term strategy, rewarding patient holders over time.
 
 ---
 
@@ -99,7 +99,7 @@ Starting in week 2 after launch, the first community events will begin. These ev
 - Community games and themed competitions
 - Governance-adjacent decisions presented via the HWOSTR dashboard
 
-The more $HYPIO tokens you hold — earned through staking or other means — the greater your access and standing in each event.
+The more $HWOSTR tokens you hold — earned through staking or other means — the greater your access and standing in each event.
 
 ---
 
