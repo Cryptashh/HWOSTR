@@ -1,4 +1,4 @@
-# $HYPIO Token — Official Documentation
+# $HWOSTR Token — Official Documentation
 
 > The economic asset of the HYPIO NFT collection, built on Hyperliquid.
 
@@ -16,7 +16,7 @@ This repository contains the official documentation for the $HYPIO token launch,
 
 ## Overview
 
-$HYPIO is not built for a quick pump. It is built on consistency — driving real volume to fuel periodic, long-term sweeps while maintaining a living, event-driven community around the HYPIO NFT collection.
+$HWOSTR is not built for a quick pump. It is built on consistency — driving real volume to fuel periodic, long-term sweeps while maintaining a living, event-driven community around the HYPIO NFT collection.
 
 Three pillars:
 1. An appreciating NFT
