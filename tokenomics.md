@@ -1,4 +1,4 @@
-# $HYPIO Tokenomics
+# $HWOSTR Tokenomics
 
 ---
 
