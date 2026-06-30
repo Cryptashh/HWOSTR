@@ -1,4 +1,4 @@
-# $HYPIO Roadmap
+# $HWOSTR Roadmap
 
 *This roadmap reflects what has been disclosed so far. Additional phases and details will be revealed progressively.*
 
